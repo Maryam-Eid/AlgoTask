@@ -1,0 +1,10 @@
+# ninja log v5
+0	357	7553074969929623	CMakeFiles/AalgoTask.dir/main.cpp.obj	3c4a9a0f8b23d7d4
+7	370	7553074970067588	CMakeFiles/AalgoTask.dir/HeapSort/HeapSort.cpp.obj	a6ea1407ddaad30a
+371	532	7553074971650972	AalgoTask.exe	e37544384e34b3bc
+0	168	7553084417940711	build.ninja	644e4bd4925abd87
+5	324	7553084422219591	CMakeFiles/AalgoTask.dir/main.cpp.obj	3c4a9a0f8b23d7d4
+2	405	7553084423030831	CMakeFiles/AalgoTask.dir/Kruskal's/kruskal.cpp.obj	ef4eb0ad036b2de3
+405	503	7553084423989207	AalgoTask.exe	37f1b5336116b0c1
+3	323	7553084501719068	CMakeFiles/AalgoTask.dir/main.cpp.obj	3c4a9a0f8b23d7d4
+324	408	7553084502537013	AalgoTask.exe	37f1b5336116b0c1
